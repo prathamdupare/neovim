@@ -1,7 +1,7 @@
 # neovim
 ### Introduction
 
-This setupm is based on kickstart.nvim. I have made some changes and added plugins. 
+This setup is based on kickstart.nvim. I have made some changes and added plugins. 
 
 A starting point for Neovim that is:
 
